@@ -7,5 +7,5 @@ You can run the application by executing the following command from the director
 ./mvnw clean package wildfly:dev
 ```
 
-Once the runtime starts, you can access the project at http://localhost:8080/jakartaee-hello-world.
+Once the runtime starts, you can access the project at http://localhost:8082/jakartaee-hello-world.
 
